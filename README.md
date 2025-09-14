@@ -57,7 +57,7 @@ pip installed
 
 Installation
 Clone the repository:
-git clone
+git clone https://github.com/Hanzala1234-ai/Project_Analyser/tree/main.git
 Navigate to project folder:
 cd <repo-name>
 Install dependencies:
